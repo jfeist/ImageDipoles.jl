@@ -3,7 +3,7 @@ module ImageDipoles
 using LinearAlgebra
 using StaticArrays
 
-export SV3, dipole_image_interaction
+export SV3
 
 const SV3 = SVector{3,Float64};
 
